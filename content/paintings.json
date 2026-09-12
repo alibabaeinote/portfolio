@@ -1,5 +1,9 @@
 {
   "paintings": [
+    { "src": "assets/paintings/painting-21.jpg", "title": "Bare Bones" },
+    { "src": "assets/paintings/painting-22.jpg", "title": "Snarl" },
+    { "src": "assets/paintings/painting-23.jpg", "title": "Hearsay" },
+    { "src": "assets/paintings/painting-24.jpg", "title": "Fracture" },
     { "src": "assets/paintings/painting-01.jpg", "title": "Raw Nerve" },
     { "src": "assets/paintings/painting-02.jpg", "title": "Static" },
     { "src": "assets/paintings/painting-03.jpg", "title": "Bared" },
@@ -19,10 +23,6 @@
     { "src": "assets/paintings/painting-17.jpg", "title": "Possession" },
     { "src": "assets/paintings/painting-18.jpg", "title": "Retold" },
     { "src": "assets/paintings/painting-19.jpg", "title": "Not Dead" },
-    { "src": "assets/paintings/painting-20.jpg", "title": "Silenced" },
-    { "src": "assets/paintings/painting-21.jpg", "title": "Bare Bones" },
-    { "src": "assets/paintings/painting-22.jpg", "title": "Snarl" },
-    { "src": "assets/paintings/painting-23.jpg", "title": "Hearsay" },
-    { "src": "assets/paintings/painting-24.jpg", "title": "Fracture" }
+    { "src": "assets/paintings/painting-20.jpg", "title": "Silenced" }
   ]
 }
